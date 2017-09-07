@@ -1,0 +1,11 @@
+.item {
+    width: 300px;
+    color: wheat;
+    background: black;
+}
+.item h2 {
+    text-align: center;
+}
+.item ul {
+    display: none;
+}
